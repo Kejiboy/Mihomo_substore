@@ -48,7 +48,7 @@ rule-providers:
     type: http
     behavior: classical
     url: https://gist.githubusercontent.com/Kejiboy/9a18a0c6d42d2d3fc41bbd3f8860b3e0/raw/my-custom-rules.list
-    path: ./rule-providers/MyCustomRules.list
+    path: ./rule-providers/my-custom-rules.list
     interval: 86400
   # ========== 功能规则==========
   reject:
