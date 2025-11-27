@@ -104,7 +104,7 @@
     {
       "type": "Script Operator",
       "args": {
-        "content": "https://raw.githubusercontent.com/Keywos/rule/main/rename.js#bl=true&blkey=家宽+IPLC+IEPL+落地+IPv6&flag=true&in=true&nm=true&out=en+cn",
+        "content": "https://cdn.jsdelivr.net/gh/Kejiboy/Mihomo_substore@refs/heads/main/rename.js#bl=true&blkey=家宽+IPLC+IEPL+落地+IPv6&flag=true&in=true&nm=true&out=en+cn",
         "mode": "link",
         "arguments": {
           "bl": "true",
