@@ -10,7 +10,7 @@
     {
       "type": "Script Operator",
       "args": {
-        "content": "https://cdn.jsdelivr.net/gh/Kejiboy/Mihomo_substore@main/%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86.js#noCache",
+        "content": "https://cdn.jsdelivr.net/gh/Kejiboy/Mihomo_substore@main/chainProxy.js#noCache",
         "mode": "link",
         "arguments": {}
       },
